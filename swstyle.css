@@ -1,0 +1,30 @@
+body{
+  background-color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: purple;
+  text-align: center;
+}
+.link{
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue;
+  border: solid ;
+}
+ul{
+  display: flex;
+  list-style-type: none;
+  text-align: right;
+}
+.other-pages{
+  font-size: 15px;
+  border-radius: 10px;
+  margin: 5px;
+  color: purple;
+  align-self: left;
+  display: inline;
+}
